@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Example\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
+    "c:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Example\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Example\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
+    "c:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Example\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Example\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectUniqueName": "c:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Example\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "projectName": "Example001_HelloConsole",
-        "projectPath": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Example\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectPath": "c:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Example\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "packagesPath": "C:\\Users\\dmitr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Example\\Example001_HelloConsole\\obj\\",
+        "outputPath": "c:\\Users\\dmitr\\OneDrive\\Рабочий стол\\Example\\Example001_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dmitr\\AppData\\Roaming\\NuGet\\NuGet.Config",
